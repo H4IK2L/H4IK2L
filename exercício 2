@@ -1,3 +1,49 @@
+TRABALHO 1 
+
+1) DEFINA O CONCEITO DE ARQUIVO NO CONTEXTO DA COMPUTAÇÃO.
+R: A abstração é a construção da realidade através do pensamento e, também, a habilidade de
+eliminar aspectos que não são importantes ou irrelevantes. O Arquivo não “foge “desse
+sentido, ele é entendido como uma abstração do sistema operacional, esse citado é
+responsável por gerenciar os arquivos. De acordo com a linguagem técnicas o arquivo é uma
+sequência de bytes que podem ser alterados/manipulados, seja gravando, lendo ou até
+mesmo copiando, armazenado em um dispositivo físico não volátil, onde esse preserva o seu
+conteúdo mesmo desligado. Todos possuem um nome, este usado para ser encontrado pelo
+sistema operacional, otimizando o funcionamento e objetividade.
+
+1.1) DEFINA O QUE É ARQUIVO DE TEXTO.
+
+R: Arquivo de texto é uma “espécie “de várias do gênero arquivo. Este tem como função de
+guardar as informações textuais mais simples. Esses armazenam caracteres que são
+mostrados na tela ou modificados por um editor de texto simples.
+
+2) DEFINA O QUE É VARIAVEL NO CONTEXTO DA PROGRAMAÇÃO -
+R: Variáveis são espaços, &quot;caixas &quot;, onde as informações no caso os dados são armazenados
+seja temporariamente ou em definitivo, sendo usadas durante a execução do programa. Essa
+caixa pode estar em memória física ou virtual e a cada variável é atribuído um identificador
+descritivo ou identificador que indica o valor salvo. Ela pode ser global ou local, podendo ser
+acessada de qualquer lugar do programa ou ser acessada dentro de um bloco de código
+específico. Tais orientam as ações do código-fonte de aplicações de qualquer sistema,
+podendo o processador manipular os conteúdos e garantir a satisfação do usuário dando os
+resultados esperados.
+
+3) DEFINA O QUE É SERVIDOR NO CONTEXTO DA COMPUTAÇÃO
+R: No sentido da programação um servidor pode ser um prestador de serviço que fornece esse
+apoio a clientes interessados no produto em forma de rede. Ele fornece serviços, dados ,
+funcionalidade e recursos para o cliente, visando otimizar e organizar o serviço .
+
+4) CRIAR UMA CONTA E UM REPOSITÓRIO NO GITHHUB.
+
+R: Criada - https://github.com/H4IK2L/H4IK2L
+
+
+
+
+
+
+
+
+TRABALHO 2 
+
 1) Como Sabemos as datas centers possuem uma função importante no que
 tange o processamento e armazenamento de dados pessoais, esse tema
 com grande sensibilidade e perigo dependendo da forma que for utilizado
@@ -36,4 +82,6 @@ de interesse exclusivo do dono do dado e da entidade . Antes de pensarmos em
 
 acessibilidade, no âmbito privado devemos garantir a privacidade e segurança. Logo o
 modo que se utiliza os dados deve ser analisado e principalmente amparados pela
-redação da LGPD.
+redação da LGPD. 
+
+3) https://github.com/H4IK2L/H4IK2L/edit/main/exerc%C3%ADcio%202
