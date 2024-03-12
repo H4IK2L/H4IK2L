@@ -1,1 +1,10 @@
+1- def imprime_vogais(frase):
+    vogais = "aeiouAEIOU"
+    vogais_na_frase = [letra for letra in frase if letra in vogais]
+    for vogal in vogais_na_frase:
+        print(vogal, end=' ')
+
+# Exemplo de uso
+frase = "Implementando um algoritmo em Python"
+imprime_vogais(frase)
 
