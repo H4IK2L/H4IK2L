@@ -1,0 +1,120 @@
+Lista de Exercícios
+Programação e Direito
+1) No contexto da ubiquidade da computação, explique brevemente porque é vantajoso dominar seus
+conceitos fundamentais ao lidar com o Direito.
+
+R: computação é onipresente. considerando o direito como a ciencia que se ocupa das regras regulatorias da sociedade, a computação ajuda na otimização e celeridade nas funções judiciai. Além disso ,  assim para mais que uma feramenta de automoção e viabilidade judicial , a computação é fundamental para observar as relações sociais contemporaneas. 
+
+
+2) Muitos termos são usados no nosso cotidiano com um significado, mas apresentam outro, geralmente
+mais preciso, em determinada área do conhecimento. Não seria diferente com os termos da computação.
+Considerando esse fato, explique o que significa, na área da computação, os seguintes termos:
+
+a) algoritmo;R: Conjunto de instruções finitas ou infinitas que realizam uma tarefa ou problema . 
+
+b) nuvem; R: Espaços virtuais ou fisicos onde se armazena boa parte dos dados . Uma camada de abstração sob um conjunto de computadores . 
+
+c) servidor;R: No sentido da programação um servidor pode ser um prestador de serviço que fornece esse
+apoio a clientes interessados no produto em forma de rede. Ele fornece serviços, dados ,
+funcionalidade e recursos para o cliente, visando otimizar e organizar o serviço . Pode ser um programa de computador , computador .
+
+
+d) neutralidade da rede; e -  R: O trafego deve ser tratado sem discriminação , para se ter a liberdade de empreender . 
+
+e) arquivo. - R:  A abstração é a construção da realidade através do pensamento e, também, a habilidade de
+eliminar aspectos que não são importantes ou irrelevantes. O Arquivo não “foge “desse
+sentido de abstração, ele é entendido como uma abstração do sistema operacional, esse citado é
+responsável por gerenciar os arquivos. De acordo com a linguagem técnicas o arquivo é uma
+sequência de bytes que podem ser alterados/manipulados, seja gravando, lendo ou até
+mesmo copiando, armazenado em um dispositivo físico não volátil, onde esse preserva o seu
+conteúdo mesmo desligado. Todos possuem um nome, este usado para ser encontrado pelo
+sistema operacional, otimizando o funcionamento e objetividade./ Um arquivo é um conjunto de dados ao qual voce da um nome .
+
+
+3) A realidade é infinitamente complexa e o mundo é multifacetado. Dito isso, explique como podemos
+organizar na palavra Internet conceitos diferentes como máquinas, cabos, programas e dados?
+ 
+R: Podemos organizar todos esse elementos na palavra internet atavés da abstração , pois eliminamos aspectos não importantes ou irrelevante para nosso interesse. 
+
+4) Sabendo que computadores precisam ser programados precisamente para realizar suas tarefas, e que,
+então, só repetiriam o que humanos já sabem fazer, por que eles foram inventados?
+
+R: pelos os computadores repetirem apenas o que os humanos fazem , esses foram criados para otimizar o trabalho humano e automatizar as funções repetitivas . 
+
+
+5) Por que uma rede neural artificial não pode tomar decisões médicas ou de concessão de empréstimos,
+por exemplo. Existe algum algoritmo ou modelo de IA que poderia ser utilizado em algum dos casos em
+pauta? Se sim, por que e em qual?
+
+R: Uma rede neural artificial é um modelo onde é dificil de explicar a sua decisão . Pois as inteligencias artificiais não podem ser responsabilizadas civis e penalmente em caso de erros ou lesões . Não existe algoritmo ou modelo de IA para decisões medicas, apenas uma rede neural para AUXILIAR o medico , porem para emprestimos é possivel através de arvores de decisão .  
+
+6) O que diferencia um arquivo “binário” de um arquivo “de texto”?
+
+R: Todo arquivo é 01 , binario .  A diferença é que nos arquivos de textos os 01 sempre serão caracteres , no arquivo de texto os bytes sempre serão caracteres .
+
+
+7) O que diferencia um formato proprietário de arquivos e um formato aberto de arquivos. Contextualize no
+cenário da divulgação e manutenção de dados públicos.
+
+R: Os proprietários são de domínio de uma pessoa privada podendo ser um CNPJ Ou organização que são controlados por interesses privados o que restringe o acesso dos dados por pessoas de fora ,. Exemplo de
+formatos proprietários ou abertos são o EXCEL e o JSONA. Os dados abertos são mais fáceis de serem utilizados e manipulados, além de um acesso mais tranquilo, fornecida essa facilidade por uma diversidade de programas
+e softwers que “mechem” na plataforma para um melhor serviço aos utilizadores. Dado publico é um dado proveninete da atuação estatal , no qual são divulgados por modelo aberto de arquivo , acordão 2059 TCU.
+
+
+8) O que diferencia, no contexto da computação, um protocolo de comunicação aberto de um protocolo de
+comunicação proprietário? Contextualize no cenário da liberdade econômica e do desenvolvimento de
+novas aplicações para internet. 
+
+R:Protocolo de comunicação será um conjunto de regras que institui como os computadores irão se comunicar na internet. O protocolo de comunicação proprietario é controlado por empresas privadas e o aberto é um padrão publico onde são disponiveis a qualquer usuario . No contexto de liberdade economica e do desenvolvimento de novas aplicações para internet , usar o protocolo proprietaro dificulta a entrada de novos autores logo dificulta desenvolvimentos no cenario , enquanto o aberto facilita essa entrada . 
+
+
+9) Sobre o “sistema operacional”:
+
+a) O que é um sistema operacional e qual a sua relação com os programas do computador e seus
+componentes físicos?
+R: Um programa de computador que oferece uma interface entre os componentes fisicos ( hardweaR) e os outros programas do computador ( softweaer) 
+
+b) Existe apenas um sistema operacional disponível?
+R: Não.  Existem IOS e androids par celular , windows w, linux e mac os para computador . 
+
+c) Vender computadores obrigatoriamente ativados com um sistema operacional pode ser considerado
+“venda casada”? Explique.
+R:Não . O STJ argumenta que é parte essencial do computador o sistema operacional .
+
+
+10) Sobre a LGPD:
+
+a) Sua abrangência inclui datacenters em países estrangeiros? Explique.
+
+R: Pode abranger data centers de paises estrangeiros , desde que tratem de dados capturados no brasil( brasileiro ou estrangeiro) ou de cidadão brasileiro .  
+
+b) Na sua opinião, os servidores de aplicação agem de maneira adequada atualmente: 
+
+1) no tocante ao conteúdo em desacordo com suas regras de comunidade? Explique.
+R: Servidor de aplicação é a dona da plataforma ( meta- facebook). Não agem , conforme diversos exemplos , varios conteudos são removidos por regras internas dos servidores não por lei nacional. 
+
+2) em relação ao conteúdo que destrói reputações, sabidamente falso? Explique.
+R: Agem . O proprio  
+
+
+11) No contexto da linguagem de programação Python:
+a) Quais as estruturas de repetição utilizadas?
+R: for e while 
+
+b) Como são definidos os blocos de comando?
+R: Bloco é definido com dois pontos em uma linha(:) e posteriormente a indentação ( recuos) 
+
+c) Quais as duas principais operações realizadas pelo operador +? Explique brevemente
+cada uma delas.
+R: concatenação de string ( junção de palavras ex : ( ' casa ' + " amarela) ) é quando o operador mais( +) é usado para juntar duas palavras e formar um 3° texto   
+
+d) O que é uma função?
+R: uM PEDAÇO DE UM PROGRAMA DE COMPUTADOR 
+
+e) Como definimos uma função? 
+R: é a palavra chave def + um nome e a lista de parametro da função envolvida por parenteses seguida de dois pontos e o bloco de comandos : def nome ( lista parametro) :  
+
+f) Quais as estruturas de tomada de decisão da linguagem? Construa um exemplo de cada
+uma delas 
+
+R: IF , IF-ELSE , IF- ELIF - ELSE .
